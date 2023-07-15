@@ -9,13 +9,7 @@
 支持用户自定以接口对当前页面链接做解析，常见的就是用网上的vip视频解析接口获取视频地址。
 ## 广告拦截
 广告拦截也是本软件强有力的功能，具备极其强大的去广告能力，目前为止还没发现有哪款浏览器去广告脚本的效果有比该软件更强大的，同是支持用户手动标记广告，标记后刷新页面即可去除该广告。直接看下面的去广告效果吧：
-![img_v2_315a192f-75d4-471b-a2f4-8214b37398eg](https://github.com/gitcfly/fast-video/assets/34736214/e86e4e8a-a4a6-4063-b696-e2fb84451a0a)
-
-![img_v2_0a74f92a-95e0-4169-a8ae-4cd1e94a0dag](https://github.com/gitcfly/fast-video/assets/34736214/499a8b48-7e00-4d9c-bed7-f46441636f04)
-
-![img_v2_ef280aee-68a2-4fa8-96a2-fe577dad598g](https://github.com/gitcfly/fast-video/assets/34736214/2e1c5fac-da70-4bc2-9590-24f665792772)
-
-![img_v2_cb8d9621-b586-4418-9b36-f69a3b38b85g](https://github.com/gitcfly/fast-video/assets/34736214/8963817f-0496-4749-9b83-316e7aebb3ef)
+![img_v2_315a192f-75d4-471b-a2f4-8214b37398eg](https://github.com/gitcfly/fast-video/assets/34736214/e86e4e8a-a4a6-4063-b696-e2fb84451a0a)![img_v2_0a74f92a-95e0-4169-a8ae-4cd1e94a0dag](https://github.com/gitcfly/fast-video/assets/34736214/499a8b48-7e00-4d9c-bed7-f46441636f04)![img_v2_ef280aee-68a2-4fa8-96a2-fe577dad598g](https://github.com/gitcfly/fast-video/assets/34736214/2e1c5fac-da70-4bc2-9590-24f665792772)![img_v2_cb8d9621-b586-4418-9b36-f69a3b38b85g](https://github.com/gitcfly/fast-video/assets/34736214/8963817f-0496-4749-9b83-316e7aebb3ef)
 
 ## 高速视频播放器
 该软件集成了专用的高速视频播放器，该播放器旨在解决一切网络加载问题，某些情况下，即使是4倍速播放也不会有视频频繁加载导致播放卡顿的效果。一般来说，在一些小众视频网站尤其是一些盗版视频网站上会存在大量免费的视频，但是它们的播放效果特别卡顿，总是无故频繁发生加载卡顿，原本一个小时的视频可能看完需要两个小时左右，极度的没有体验。本软件自带的高速播放器，专门为解决此类问题而生，让你的网络满速加载视频，当探嗅到视频资源后，就请直接使用此高速播放器来观看吧，提升你的观影体验，你只需要此一款软件就够啦。
