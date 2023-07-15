@@ -18,4 +18,4 @@
 <img src="20230715-172113.jpeg" width="50%"/><img src="20230715-165329.jpeg" width="50%"/>
 # 下载地址：
 https://github.com/gitcfly/fast-video/releases/download/v2.0.0/app-release.apk
-蓝奏云：https://wwos.lanzouj.com/iHLY212kfhsj 密码:ajfw
+<br>蓝奏云：https://wwos.lanzouj.com/iHLY212kfhsj 密码:ajfw
