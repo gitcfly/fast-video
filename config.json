@@ -1,7 +1,7 @@
 {
     "config_name": "这是极速视频的最新版本配置",
-    "latest_version": "2.0.3",
-    "download_url": "https://gitee.com/ytech/fast-video/releases/download/v2.0.3/app-release.apk",
+    "latest_version": "2.0.4",
+    "download_url": "https://gitee.com/ytech/fast-video/releases/download/v2.0.x/app-release.apk",
     "update_info": "更强大更智能的去广告功能，解决已知问题",
     "recommend_sites":[
         {"title":"百度搜索","detail":"百度搜索引擎","url":"https://m.baidu.com"},
