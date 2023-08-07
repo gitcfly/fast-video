@@ -3,10 +3,64 @@
     "latest_version": "2.0.4",
     "download_url": "https://gitee.com/ytech/fast-video/releases/download/v2.0.x/app-release.apk",
     "update_info": "更强大更智能的去广告功能，解决已知问题",
-    "recommend_sites":[
-        {"title":"百度搜索","detail":"百度搜索引擎","url":"https://m.baidu.com"},
-        {"title":"谷歌搜索","detail":"全球搜索引擎","url":"https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp&gws_rd=ssl"},
-        {"title":"茶杯狐","detail":"影视聚合搜索","url":"https://cupfox.app/"},
-        {"title":"爱达影视","detail":"影视聚合搜索","url":"https://adzhp.net/sites/3940.html"}
+    "recommend_sites": [
+        {
+            "title": "百度搜索",
+            "detail": "百度搜索引擎",
+            "url": "https://m.baidu.com"
+        },
+        {
+            "title": "谷歌搜索",
+            "detail": "全球搜索引擎",
+            "url": "https://www.google.com.hk/webhp?hl=zh-CN&sourceid=cnhp&gws_rd=ssl"
+        },
+        {
+            "title": "茶杯狐",
+            "detail": "影视聚合搜索",
+            "url": "https://cupfox.app/"
+        },
+        {
+            "title": "爱达影视",
+            "detail": "影视聚合搜索",
+            "url": "https://adzhp.net/sites/3940.html"
+        }
+    ],
+    "parse_api_list": [
+        {
+            "name": "线路1",
+            "addr": "https://svip.bljiex.cc/?v="
+        },
+        {
+            "name": "线路2",
+            "addr": "https://dmjx.m3u8.tv/?url="
+        },
+        {
+            "name": "线路3",
+            "addr": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "name": "线路4",
+            "addr": "https://www.administratorw.com/video.php?url="
+        },
+        {
+            "name": "线路5",
+            "addr": "https://2.08bk.com/?url="
+        },
+        {
+            "name": "线路6",
+            "addr": "https://jx.iztyy.com/svip/?url="
+        },
+        {
+            "name": "线路7",
+            "addr": "https://vip.bljiex.com/?v="
+        },
+        {
+            "name": "线路8",
+            "addr": "http://www.82190555.com/index/qqvod.php?url="
+        },
+        {
+            "name": "线路9",
+            "addr": "https://www.nxflv.com/?url="
+        }
     ]
 }
