@@ -54,5 +54,81 @@
             "name": "线路9",
             "addr": "https://www.nxflv.com/?url="
         }
+    ],
+    "no_ad_block_site_list": [
+        {
+            "name": "内置站点",
+            "path": "android_asset"
+        },
+        {
+            "name": "百度",
+            "path": "baidu.com"
+        },
+        {
+            "name": "csdn",
+            "path": "blog.csdn.net"
+        },
+        {
+            "name": "腾讯视频",
+            "path": "qq.com"
+        },
+        {
+            "name": "爱奇艺",
+            "path": "iqiyi.com"
+        },
+        {
+            "name": "优酷视频",
+            "path": "youku.com"
+        },
+        {
+            "name": "芒果TV",
+            "path": "mgtv.com"
+        },
+        {
+            "name": "哔哩哔哩",
+            "path": "bilibili.com"
+        },
+        {
+            "name": "搜狐视频",
+            "path": "sohu.com"
+        },
+        {
+            "name": "360影视大全",
+            "path": "jingmao360.com"
+        },
+        {
+            "name": "谷歌搜索",
+            "path": "google.com"
+        },
+        {
+            "name": "知乎",
+            "path": "zhihu.com"
+        }
+    ],
+    "ad_resource_list": [
+        {
+            "name": "广告1",
+            "ad": "tongji.js?token="
+        },
+        {
+            "name": "广告2",
+            "ad": "jwmnk.180txhl.com"
+        },
+        {
+            "name": "广告3",
+            "ad": "14247219751/0"
+        },
+        {
+            "name": "广告4",
+            "ad": "jsimg"
+        },
+        {
+            "name": "广告5",
+            "ad": "vudftgxg_b"
+        },
+        {
+            "name": "广告6",
+            "ad": "skbqnjue_b"
+        }
     ]
 }
