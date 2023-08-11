@@ -103,6 +103,18 @@
         {
             "name": "知乎",
             "path": "zhihu.com"
+        },
+        {
+            "name": "爱达杂货铺",
+            "path": "adzhp.xyz"
+        },
+        {
+            "name": "搜片",
+            "path": "soupian.one"
+        },
+        {
+            "name": "茶杯狐",
+            "path": "www.cupfox.app"
         }
     ],
     "ad_resource_list": [
