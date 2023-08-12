@@ -23,6 +23,11 @@
             "title": "爱达影视",
             "detail": "影视聚合搜索",
             "url": "https://adzhp.net/sites/3940.html"
+        },
+        {
+            "title": "八戒影院",
+            "detial": "手机在线免费影院",
+            "url": "https://m.bajie100.com/"
         }
     ],
     "parse_api_list": [
@@ -115,6 +120,10 @@
         {
             "name": "茶杯狐",
             "path": "cupfox.app"
+        },
+        {
+            "name": "八戒影院",
+            "path": "bajie100.com"
         }
     ],
     "ad_resource_list": [
